@@ -20,6 +20,7 @@ mantenga el registro de nuestro repositorio.
 ![github_repo](images/github_repo.png)
 
 ###github-cli
+
 Ahora tenemos nuestro repositorio remoto, pero queremos sincronizarlo con
 nuestro repositorio local, para eso usaremos github-cli para autenticarnos en
 github desde laterminal sin necesidad de generar un token, pero abriendo una
