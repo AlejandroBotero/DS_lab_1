@@ -24,4 +24,7 @@ nueva ventana
 ![github_auth](images/gh_auth.png)
 ahora podemos sincronizar nuestro trabajo con commandos como fetch, pull, push
 ...
+![git_push](images/git_push.png)
 
+Así hemos completado la sincronización, por lo que podemos seguir trabajando y
+simplemente podemos pullear y pushear cuando lo nocesitemos
