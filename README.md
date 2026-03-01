@@ -22,3 +22,6 @@ github desde laterminal sin necesidad de generar un token, pero abriendo una
 nueva ventana
 ![github_cli](images/github_cli.png)
 ![github_auth](images/gh_auth.png)
+ahora podemos sincronizar nuestro trabajo con commandos como fetch, pull, push
+...
+
